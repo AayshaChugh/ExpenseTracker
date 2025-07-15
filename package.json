@@ -1,0 +1,10 @@
+{
+  "name": "expense_tracker_app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd expense-tracker && yarn && yarn build",
+    "dev": "cd expense-tracker && yarn dev --host",
+    "postinstall": "cd expense-tracker && yarn install --check-files"
+  },
+  "license": "MIT"
+}

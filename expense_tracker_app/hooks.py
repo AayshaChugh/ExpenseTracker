@@ -2,6 +2,8 @@ app_name = "expense_tracker_app"
 app_title = "Expense Tracker"
 app_publisher = "Aaysha"
 app_description = "For tracking the expenses on regular basis"
+app_icon = "octicon octicon-file-directory"
+app_color = "grey"
 app_email = "chughaaysha@gmail.com"
 app_license = "mit"
 
